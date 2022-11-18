@@ -1,6 +1,5 @@
 ### Hola 👋, Mi nombre es Cesar
 #### Soy desarrollador junior web y movil
-![Soy desarrollador junior web y movil]
 
 Soy estudiante de Udemy llevo mas de un año estudiando programacion web, en estos momentos me encuentro en la certificacion de Ionic 6, ya cuento con conocimientos en Laravel 9
 
