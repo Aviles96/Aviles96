@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola 👋, Mi nombre es Cesar
+#### Soy desarrollador junior web y movil
+![Soy desarrollador junior web y movil](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Aviles96/Aviles96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Udemy llevo mas de un año estudiando programacion web, en estos momentos me encuentro en la certificacion de Ionic 6, ya cuento con conocimientos en Laravel 9
 
-Here are some ideas to get you started:
+Habilidades: MVC / PHP/ JS / HTML / CSS / NG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estoy trabajando en en una aplicacion movil de noticias con Ionic 6 
+- 🌱 Estoy aprendiendo sobre el framework de Ionic 
+- 🤔 Necesito ayuda con en encontrar un trabajo de programacion 
+- 💬 Pregúntame acerca de de programacion 
+- 📫 Cómo contactarme: linkedin.com/in/cesar-aviles-894aa0241 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ github.com/Aviles96 )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/cesar-aviles-894aa0241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100007053854670)  
+
