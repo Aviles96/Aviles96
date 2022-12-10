@@ -7,7 +7,7 @@ Habilidades: MVC / PHP/ JS / HTML / CSS / NG
 
 - 🔭 Estoy trabajando en en una aplicacion movil de noticias con Ionic 6 
 - 🌱 Estoy aprendiendo sobre el framework de Ionic 
-- 🤔 Necesito ayuda con en encontrar un trabajo de programacion 
+- 🤔 Necesito ayuda con encontrar un trabajo de programacion 
 - 💬 Pregúntame acerca de de programacion 
 - 📫 Cómo contactarme: linkedin.com/in/cesar-aviles-894aa0241 
 
