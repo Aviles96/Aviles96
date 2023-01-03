@@ -5,7 +5,7 @@ Soy estudiante de Udemy llevo mas de un año estudiando programacion web, en est
 
 Habilidades: MVC / PHP/ JS / HTML / CSS / NG
 
-- 🔭 Estoy trabajando en en una aplicacion movil de noticias con Ionic 6 
+- 🔭 Estoy trabajando en una aplicacion movil de noticias con Ionic 6 
 - 🌱 Estoy aprendiendo sobre el framework de Ionic 
 - 🤔 Necesito ayuda con encontrar un trabajo de programacion 
 - 💬 Pregúntame acerca de programacion 
